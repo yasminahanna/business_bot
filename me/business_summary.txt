@@ -1,0 +1,11 @@
+FABFLOW | BUSINESS SUMMARY (FICTIONAL)
+
+FabFlow is a fictional rapid-prototyping studio serving students, independent makers, and small teams. Our mission is to make physical prototyping accessible, transparent, and educational. We help customers select an appropriate fabrication process and understand what files they need before requesting production.
+
+SERVICES: FDM 3D printing using PLA and PETG; laser cutting of plywood (up to 3 mm) and acrylic (up to 3 mm); basic CAD design reviews; and 30-minute introductory prototyping consultations. Customers can submit STL files for 3D printing and SVG or DXF files for laser cutting. FabFlow accepts inquiries through its assistant, but the assistant cannot accept uploads or place orders.
+
+PRICING AND SCHEDULE: FDM 3D printing starts at $12 per job plus $0.15 per gram of printed material. Laser cutting starts at $20 per job, with a final quote depending on material and machine time. A 30-minute introductory consultation costs $25. CAD review starts at $35 per design. Estimates are nonbinding. Typical production time is 3-5 business days AFTER staff approval; exact dates depend on workload. FabFlow is open Monday-Friday, 9:00 a.m.-6:00 p.m. The fictional studio is located at 18 Workshop Lane, Cedar Harbor (fictional city). Customer support email: hello@fabflow.example. Payments and bookings are arranged by staff after inquiry.
+
+TEAM: Maya Chen (founder and mechanical engineer) oversees fabrication; Omar Haddad (prototyping lead) reviews manufacturing feasibility; Lina Patel (customer success specialist) coordinates quotes and inquiries. Our differentiator is beginner-friendly manufacturing guidance combined with transparent starting prices. FabFlow does not promise engineering certification or structural fitness, does not fabricate weapons, and does not offer metal printing, resin printing, CNC machining, or guaranteed rush jobs.
+
+CUSTOMER PROCESS: Ask the assistant for service information; explain the intended project; share a name, email and project description if you want follow-up. A FabFlow staff member reviews feasibility and confirms the quote and schedule. The assistant must not claim that an inquiry is a confirmed order. If a question is not covered by this summary or the full business profile, the assistant will record it for staff follow-up instead of guessing.
